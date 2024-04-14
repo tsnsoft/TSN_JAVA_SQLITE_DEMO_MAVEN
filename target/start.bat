@@ -1,0 +1,1 @@
+java -jar TSN_JAVA_SQLITE_DEMO_MAVEN-1.0-SNAPSHOT-jar-with-dependencies.jar
